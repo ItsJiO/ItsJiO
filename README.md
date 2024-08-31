@@ -1,6 +1,6 @@
 <div align="right">
-<a style="text-decoration: none" target="_blank"href="https://github.com/codediaz">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=codediaz.codediaz&left_color=gray&right_color=blue&left_text=Coders%20visitors">
+<a style="text-decoration: none" target="_blank"href="https://github.com/ItsJiO">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ItsJiO.ItsJiO&left_color=gray&right_color=blue&left_text=Coders%20visitors">
 </a>
 <a style="text-decoration: none" target="_blank" href="https://x.com/_ItsJiiO" >
 <img width="60"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
@@ -81,11 +81,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,aws,azure"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=azure,aws,docker"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=sqlserver,mysql,postgresql,firebase,mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
