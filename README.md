@@ -57,7 +57,7 @@
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/ItsJiO/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsjio#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsJiO#version3"/>
   </a>
 </p>
 
@@ -65,40 +65,38 @@
 
 <div align="center">
 <a href="https://github.com/ItsJiO">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsjio&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjio&layout=compact&langs_count=7&theme=default"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsJiO&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJiO&layout=compact&langs_count=7&theme=default"/></a>
 </div> -->
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,net,spring,go"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,python,opencv,java,php"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,html,css,js,ts,angular,vue,vuetify"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,aws,azure"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,elasticsearch"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=sql,mysql,postgresql,firebase,mongodb"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=photoshop,canvas,postman"/></td>
     </tr>
 </table>
 <br>
 
 ------
-**Credits :** [codediaz](https://github.com/codediaz)
-
-**Last Edited on:** 06/04/2024
+<!-- **Credits :** [codediaz](https://github.com/codediaz) -->
