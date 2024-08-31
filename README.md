@@ -73,11 +73,11 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,python,opencv,java,php"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,nodejs,python,opencv,pycharm"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,react,ts,html,css,js"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
@@ -85,7 +85,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,firebase,mongodb"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -93,7 +93,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=photoshop,postman"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=arduino,notion,ps,postman,raspberrypi"/></td>
     </tr>
 </table>
 <br>
