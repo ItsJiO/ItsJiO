@@ -57,7 +57,7 @@
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/ItsJiO/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codediaz#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsjio#version3"/>
   </a>
 </p>
 
@@ -65,8 +65,8 @@
 
 <div align="center">
 <a href="https://github.com/ItsJiO">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codediaz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsjio&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjio&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
