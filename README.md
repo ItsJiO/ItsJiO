@@ -61,13 +61,13 @@
   </a>
 </p>
 
-<h2>⭐ | Github Stats </h2>
+<!-- <h2>⭐ | Github Stats </h2>
 
 <div align="center">
 <a href="https://github.com/ItsJiO">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsjio&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjio&layout=compact&langs_count=7&theme=default"/></a>
-</div>
+</div> -->
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
