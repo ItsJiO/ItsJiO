@@ -1,11 +1,11 @@
 <div align="right">
-<a style="text-decoration: none" target="_blank"href="https://github.com/ItsJiO">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ItsJiO.ItsJiO&left_color=gray&right_color=blue&left_text=Coders%20visitors">
+<a style="text-decoration: none" target="_blank"href="https://github.com/codediaz">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=codediaz.codediaz&left_color=gray&right_color=blue&left_text=Coders%20visitors">
 </a>
-<a style="text-decoration: none" target="_blank" href="https://twitter.com/ItsJiOsergio" >
+<a style="text-decoration: none" target="_blank" href="https://x.com/_ItsJiiO" >
 <img width="60"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
 </a>
-<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/sergio-diaz-fernandez/" >
+<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/jiovanni-ugalde-ramirez/" >
 <img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
 </a>
 </div>
@@ -19,7 +19,7 @@
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ItsJiO/ItsJiO/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
 
@@ -57,16 +57,16 @@
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsJiO#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codediaz#version3"/>
   </a>
 </p>
 
 <h2>⭐ | Github Stats </h2>
 
 <div align="center">
-<a href="https://github.com/ItsJiO">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsJiO&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJiO&layout=compact&langs_count=7&theme=default"/></a>
+<a href="https://github.com/codediaz">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codediaz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
@@ -99,6 +99,6 @@
 <br>
 
 ------
-**Credits :** [ItsJiO](https://github.com/ItsJiO)
+**Credits :** [codediaz](https://github.com/codediaz)
 
 **Last Edited on:** 06/04/2024
