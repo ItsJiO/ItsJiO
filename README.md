@@ -1,226 +1,104 @@
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Jio;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+<div align="right">
+<a style="text-decoration: none" target="_blank"href="https://github.com/codediaz">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=codediaz.codediaz&left_color=gray&right_color=blue&left_text=Coders%20visitors">
+</a>
+<a style="text-decoration: none" target="_blank" href="https://twitter.com/codediazsergio" >
+<img width="60"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
+</a>
+<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/sergio-diaz-fernandez/" >
+<img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
+</a>
 </div>
 
 <br>
 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sergio+Díaz!;" />
+
+<h2>📖 | About me</h2> 
+🌐 With 3+ years of experience as a Senior Software Engineer, I'm dedicated to developing software solutions that effectively bridge technology with real-world applications. My comprehensive expertise encompasses frontend, backend, and full-stack development, enabling me to contribute significantly to projects ranging from innovative startups to complex enterprise solutions. I advocate for clean, maintainable code and user-centric design, thriving in environments that prioritize innovation and ongoing professional growth.
+
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp" height="120px" />
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <br/>
 </div>
 
-## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
+<h2>📚 | Education</h2>
+<p>As an engineer committed to lifelong learning, my academic path is both active and aspirational. Having achieved my bachelor's degree, I'm now advancing through my master's program, with the ultimate goal of attaining a doctoral degree.</p><br>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
+<div align="center">
+  <table style="margin-left: auto; margin-right: auto;">
+    <tr>
+      <td align="center">
+        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
+        <img src="https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png" width="90" alt="UPS.png"/><br>
+        <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
+        <strong>UPS</strong><br><strong>BSc.</strong> Computer Science<br>
+        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
+      </td>
+      <td align="center">
+       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
+       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="90" alt="TEC.png"/><br>
+        <img src="https://thumbs4.imagebam.com/b9/01/da/MESRJ8V_t.png" height="20" alt="Mx.png"/><br>
+        <strong>TEC</strong><br><strong>MSc.</strong> Inf. Technology Mgmt<br>
+        <img src="https://progress-bar.dev/30/" width="100" alt="progress-bar"/>
+      </td>
+      <td align="center">
+       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
+       <img src="https://thumbs4.imagebam.com/5b/76/d8/MESRJL0_t.png" width="90" alt="MIT-C-I.png"/><br>
+        <img src="https://thumbs4.imagebam.com/c8/fe/34/MESRJ8W_t.png" height="20" alt="Usa.png"/><br>
+        <strong>MIT</strong><br><strong>PhD.</strong> Computer Science<br>
+        <img src="https://progress-bar.dev/0/" width="105" alt="progress-bar"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 🔭 I’m currently working on `webgis` Development.
-- 🌱 I’m currently learning `webgl` and `threejs`
-- 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- ⚙️ I use daily: `.js`, `.vue`, `.jsx`, `.css`, `.less`, `.ts`
-- 💬 Ping me about **vue**, **fullstack**, **development**, **design**
-
-</td>
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</td>
-</tr>
-</table>
-
-## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
-
-<p align="left">
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-                alt="vuejs"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                alt="typescript"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="css3"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-                alt="webpack"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-                alt="java"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                alt="linux"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                alt="mongodb"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-                alt="nestjs"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-                alt="redis"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-                alt="sass"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-    </a>
-</p>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ItsJiO&theme=chartreuse-dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsJiO&theme=chartreuse-dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ItsJiO&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-
-<p >
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsJiO/ItsJiO/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsJiO/ItsJiO/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ItsJiO/ItsJiO/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</p>
-
-## <img src='https://raw.githubusercontent.com/ItsJiO/ItsJiO/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
-
+<h2>🔥| My contribution streak</h2>
 <p align="center">
-  <a href="https://ItsJiO.github.io/blogs/" target="_blank">
-    <img align="center" alt="ItsJiO | blogs" width="24px" src="https://raw.githubusercontent.com/ItsJiO/ItsJiO/master/assets/vitepress.svg" />
-  </a> &nbsp;&nbsp;
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codediaz#version3"/>
+  </a>
+</p>
 
-  <a href="https://profile-summary-for-github.herokuapp.com/user/ItsJiO" target="_blank">
-    <img align="center" alt="ItsJiO | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-
-  <a href="https://juejin.cn/user/3280598430653374" target="_blank">
-    <img align="center" alt="ItsJiO | juejin" width="24px" src="https://raw.githubusercontent.com/ItsJiO/ItsJiO/master/assets/juejin.svg" />
-  </a> &nbsp;&nbsp;
-
-  <a href="mailto:guochengli1997@gmail.com" >
-    <img align="center" alt="ItsJiO | Gmail" width="26px" src="https://raw.githubusercontent.com/ItsJiO/ItsJiO/master/assets/gmail.svg" />
-  </a> &nbsp;&nbsp;
-<p>
-
+<h2>⭐ | Github Stats </h2>
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2024 ashu-guo
+<a href="https://github.com/codediaz">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codediaz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
+<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,net,spring,go"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,html,css,js,ts,angular,vue,vuetify"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,elasticsearch"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
+    </tr>
+</table>
+<br>
 
----
+------
+**Credits :** [codediaz](https://github.com/codediaz)
 
-Credit: [ashu-guo](https://github.com/ashu-guo)
-
-Last Edited on 03/01/2024
+**Last Edited on:** 06/04/2024
