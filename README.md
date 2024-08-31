@@ -23,7 +23,7 @@
   <br/>
 </div>
 
-<h2>📚 | Education</h2>
+<!-- <h2>📚 | Education</h2>
 <p>As an engineer committed to lifelong learning, my academic path is both active and aspirational. Having achieved my bachelor's degree, I'm now advancing through my master's program, with the ultimate goal of attaining a doctoral degree.</p><br>
 
 <div align="center">
@@ -52,11 +52,11 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <h2>🔥| My contribution streak</h2>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="https://github.com/ItsJiO/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=codediaz#version3"/>
   </a>
 </p>
@@ -64,7 +64,7 @@
 <h2>⭐ | Github Stats </h2>
 
 <div align="center">
-<a href="https://github.com/codediaz">
+<a href="https://github.com/ItsJiO">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codediaz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/></a>
 </div>
