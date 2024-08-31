@@ -85,7 +85,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=sql,mysql,postgresql,firebase,mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=sqlserver,mysql,postgresql,firebase,mongodb"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -93,7 +93,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=photoshop,canvas,postman"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=photoshop,postman"/></td>
     </tr>
 </table>
 <br>
