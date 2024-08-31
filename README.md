@@ -1,8 +1,8 @@
 <div align="right">
-<a style="text-decoration: none" target="_blank"href="https://github.com/codediaz">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=codediaz.codediaz&left_color=gray&right_color=blue&left_text=Coders%20visitors">
+<a style="text-decoration: none" target="_blank"href="https://github.com/ItsJiO">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ItsJiO.ItsJiO&left_color=gray&right_color=blue&left_text=Coders%20visitors">
 </a>
-<a style="text-decoration: none" target="_blank" href="https://twitter.com/codediazsergio" >
+<a style="text-decoration: none" target="_blank" href="https://twitter.com/ItsJiOsergio" >
 <img width="60"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
 </a>
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/sergio-diaz-fernandez/" >
@@ -12,14 +12,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sergio+Díaz!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Jiovanni+Ugalde!;" />
 
 <h2>📖 | About me</h2> 
-🌐 With 3+ years of experience as a Senior Software Engineer, I'm dedicated to developing software solutions that effectively bridge technology with real-world applications. My comprehensive expertise encompasses frontend, backend, and full-stack development, enabling me to contribute significantly to projects ranging from innovative startups to complex enterprise solutions. I advocate for clean, maintainable code and user-centric design, thriving in environments that prioritize innovation and ongoing professional growth.
+🌐 With 2+ years of experience as a Software Engineer, I am a passionate software developer with experience as a junior fullstack. I have skills in Front-end and Back-end development, which allows me to create attractive and functional user interfaces, as well as develop the logic and infrastructure behind them. My ability to learn quickly has allowed me to acquire solid technical skills and stay current in a constantly evolving field. I perform effectively under pressure and adapt smoothly to new environments and challenges. Programming is my true passion and I enjoy every moment I spend creating innovative solutions.
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ItsJiO/ItsJiO/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
 
@@ -57,16 +57,16 @@
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codediaz#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsJiO#version3"/>
   </a>
 </p>
 
 <h2>⭐ | Github Stats </h2>
 
 <div align="center">
-<a href="https://github.com/codediaz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codediaz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/></a>
+<a href="https://github.com/ItsJiO">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsJiO&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJiO&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
@@ -99,6 +99,6 @@
 <br>
 
 ------
-**Credits :** [codediaz](https://github.com/codediaz)
+**Credits :** [ItsJiO](https://github.com/ItsJiO)
 
 **Last Edited on:** 06/04/2024
