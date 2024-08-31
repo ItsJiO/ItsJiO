@@ -54,12 +54,12 @@
   </table>
 </div> -->
 
-<h2>🔥| My contribution streak</h2>
+<!-- <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/ItsJiO/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsJiO#version3"/>
   </a>
-</p>
+</p> -->
 
 <!-- <h2>⭐ | Github Stats </h2>
 
