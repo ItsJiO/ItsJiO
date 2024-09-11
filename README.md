@@ -15,7 +15,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Jiovanni+Ugalde!;" />
 
 <h2>📖 | About me</h2> 
-🌐 With 2+ years of experience as a Software Engineer, I am a passionate software developer with experience as a junior fullstack. I have skills in Front-end and Back-end development, which allows me to create attractive and functional user interfaces, as well as develop the logic and infrastructure behind them. My ability to learn quickly has allowed me to acquire solid technical skills and stay current in a constantly evolving field. I perform effectively under pressure and adapt smoothly to new environments and challenges. Programming is my true passion and I enjoy every moment I spend creating innovative solutions.
+🌐 With 2+ years of experience as a Fullstack Software Engineer, I have skills in Front-end and Back-end development, which allows me to create attractive and functional user interfaces, as well as develop the logic and infrastructure behind them. My ability to learn quickly has allowed me to acquire solid technical skills and stay current in a constantly evolving field. I perform effectively under pressure and adapt smoothly to new environments and challenges. Programming is my true passion and I enjoy every moment I spend creating innovative solutions.
 
 <!-- <div align="center">
   <br>
