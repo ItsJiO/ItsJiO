@@ -2,7 +2,7 @@
 <a style="text-decoration: none" target="_blank"href="https://github.com/ItsJiO">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ItsJiO.ItsJiO&left_color=gray&right_color=blue&left_text=Coders%20visitors">
 </a>
-<a style="text-decoration: none" target="_blank" href="https://x.com/_ItsJiiO" >
+<a style="text-decoration: none" target="_blank" href="https://x.com/itsJiio_" >
 <img width="60"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
 </a>
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/jiovanni-ugalde-ramirez/" >
